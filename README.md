@@ -2,7 +2,7 @@
 
 ## Option One: Psychic Game (Basic)
 
-![Psychic](Images/1-Psychic.jpg)
+![Psychic](assets/images/1-Psychic.jpg)
 
 1. [Watch the demo](psychic-game-demo.mov).
 
